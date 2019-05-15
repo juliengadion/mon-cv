@@ -90,8 +90,33 @@ aside{
     margin: left;
     font-size: 25px;
     font-family: Tahoma;
-    border: 4mm ridge rgba(42, 54, 109, 0.6);
-    
+    border: 2mm ridge rgba(42, 54, 109, 0.6);  
+}
+
+aside .container{
+    padding-left: 0;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(12, 127, 161);
+}
+
+  .skills {
+    text-align: left;
+    padding: 5px;
+    color: white;
+}
+
+
+.dessin {
+    width: 80%; background-color: rgb(24, 22, 59);
+}
+.infographie {
+    width: 70%; background-color: rgb(24, 22, 59);
+}
+.musique {
+    width: 80%; background-color: rgb(24, 22, 59);
 }
 
 div.section{
@@ -107,16 +132,8 @@ height: 1px;
 
 }
 
-.container {
-    width: 100%; /* Full width */
-    background-color: #ddd; /* Grey background */
-  }
 
-  .skills {
-    text-align: right; /* Right-align text */
-    padding: 10px; /* Add some padding */
-    color: white; /* White text color */
-  }
+
 
   
 
