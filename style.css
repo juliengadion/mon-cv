@@ -1,5 +1,6 @@
 html{
     background-image: url("anime-background-images-1.jpg");
+    background-attachment: fixed, scroll;
     margin-top: 10px;
 }
 
@@ -13,6 +14,8 @@ header{
     background-image: url("58441870_112071363331879_6047847052698714112_n.jpg");
     size: 100px;
     border: 4mm ridge rgba(42, 54, 109, 0.6);
+    padding-top: 50px;
+    margin-top: 100px;
 }
 
 
@@ -26,6 +29,8 @@ h1{
 }
 
 .row{
+    border: 2mm ridge rgba(42, 54, 109, 0.6);
+    font-size: 30px;
     background-image: url("blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg");
     size: 100px;
 
@@ -91,6 +96,7 @@ aside{
     font-size: 25px;
     font-family: Tahoma;
     border: 2mm ridge rgba(42, 54, 109, 0.6);  
+    padding-bottom: 30px;
 }
 
 aside .container{
