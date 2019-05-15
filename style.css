@@ -1,5 +1,6 @@
 html{
-    background-image: url("/home/dev4/code/mon-cv/anime-background-images-1.jpg");
+    background-image: url("anime-background-images-1.jpg");
+    margin-top: 10px;
 }
 
 body{
@@ -10,17 +11,24 @@ body{
 
 header{
     background-image: url("58441870_112071363331879_6047847052698714112_n.jpg");
-    size: 10000px;
+    size: 100px;
     border: 4mm ridge rgba(42, 54, 109, 0.6);
 }
 
 
 h1{
-    background-image: url("/home/dev4/code/mon-cv/blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg");
+    
     margin-top: 20px;
     height: 250px;
-    padding: 6px;
+    padding: 50px;
     text-align: center;
+    
+}
+
+.row{
+    background-image: url("blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg");
+    size: 100px;
+
 }
 
 
